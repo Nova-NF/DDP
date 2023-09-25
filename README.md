@@ -4,7 +4,7 @@ Praktikum, Dasar-Dasar Pemrograman
 
 ![FLOWCHART POSTTEST 1](https://github.com/Nova-NF/DDP/assets/144618201/3de7c7d9-dbf9-4a05-9eca-844c50d05b4e)
 
-##Program Kalkulator menghitung segitiga phytagoras
+## Program Kalkulator menghitung segitiga phytagoras
 -. pengguna wajib login terlebih dahulu dengan username dan password yang telah di set di dalam list (list_pengguna)
 -. setelah berhasil user memiliki 3 menu untuk untuk di pilih dengan input (angka 1-3 untuk memilih menu)
 -. ketika password atau username salah maka program akan berhenti 
